@@ -8,7 +8,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "api/websim-live-events.py"
+      "dest": "main.py"
     }
   ]
 }
